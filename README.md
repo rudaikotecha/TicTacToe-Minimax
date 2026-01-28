@@ -41,10 +41,9 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
+```
 python runner.py
 
-```md
 ## Credits
 
 This project is inspired by Harvard University's
